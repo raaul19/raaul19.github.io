@@ -344,7 +344,6 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.png) no-repeat top center;
   background-position: center;
   background-size: cover; }
   .home_banner_area .banner_inner {
@@ -368,7 +367,6 @@ button:focus {
           margin-top: 150px; } }
       .home_banner_area .banner_inner .banner_content h3 {
         font-size: 40px;
-        margin-bottom: 20px;
         position: relative; }
         .home_banner_area .banner_inner .banner_content h3:after {
           content: '';
@@ -1362,10 +1360,10 @@ button:focus {
 
 .link-border {
   background: transparent;
-  border: 1px solid #4458dc;
-  color: #4458dc; }
+  border: 1px solid #020c50;
+  color: #020c50; }
   .link-border:before {
-    background: #4458dc; }
+    background: #020c50; }
 
 .radius {
   border-radius: 3px; }
