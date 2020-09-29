@@ -416,7 +416,7 @@ button:focus {
         min-height: 350px; } }
     @media (max-width: 991px) {
       .banner_area .banner_inner {
-        background: #854fee;
+        background: #007bff;
         width: 100%; } }
     .banner_area .banner_inner .banner_content {
       margin-left: 50px;
@@ -2960,7 +2960,7 @@ h6 {
     display: block;
     border-bottom: 1px solid #ededed33;
     border-radius: 0px;
-    color: #fff; }
+    color: #000000; }
 
   .header_area .navbar .search {
     margin-left: 0px; }
